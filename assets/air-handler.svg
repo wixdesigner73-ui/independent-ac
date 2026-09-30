@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 380" role="img" aria-label="Indoor HVAC air handler"><defs>
+<linearGradient id="tbody" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbfcfd"/><stop offset=".55" stop-color="#e3e9ef"/><stop offset="1" stop-color="#b9c5d0"/></linearGradient>
+<linearGradient id="trim" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#cfd8e0"/></linearGradient>
+<radialGradient id="tcav" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#3b4a59"/><stop offset=".7" stop-color="#1c2631"/><stop offset="1" stop-color="#10171f"/></radialGradient>
+<radialGradient id="thub" cx=".4" cy=".35" r=".8"><stop offset="0" stop-color="#e9eef3"/><stop offset="1" stop-color="#7c8c9b"/></radialGradient>
+<linearGradient id="tblade" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5d7184"/><stop offset="1" stop-color="#2a3947"/></linearGradient>
+<linearGradient id="tlv" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#aab7c3"/><stop offset=".5" stop-color="#eef2f6"/><stop offset="1" stop-color="#a3b0bc"/></linearGradient>
+</defs>
+<ellipse cx="100" cy="368" rx="86" ry="8" fill="#0b2a4f" opacity=".2"/>
+<rect x="12" y="8" width="176" height="356" rx="14" fill="url(#tbody)" stroke="#c0cad4" stroke-width="2"/>
+<rect x="28" y="28" width="144" height="210" rx="8" fill="#16222e"/>
+<rect x="34" y="34" width="132" height="198" rx="5" fill="#27465f" opacity=".9"/>
+<path d="M34 34h132L34 160z" fill="#fff" opacity=".12"/>
+<rect x="44" y="56" width="112" height="6" rx="3" fill="#9fd4ef" opacity=".55"/><rect x="44" y="90" width="112" height="6" rx="3" fill="#9fd4ef" opacity=".55"/><rect x="44" y="124" width="112" height="6" rx="3" fill="#9fd4ef" opacity=".55"/><rect x="44" y="158" width="112" height="6" rx="3" fill="#9fd4ef" opacity=".55"/><rect x="44" y="192" width="112" height="6" rx="3" fill="#9fd4ef" opacity=".55"/>
+<rect x="28" y="256" width="144" height="84" rx="8" fill="#e6ecf1" stroke="#c0cad4"/>
+<rect x="44" y="274" width="60" height="24" rx="4" fill="#1c2631"/>
+<circle cx="132" cy="286" r="8" fill="#c2cdd7" stroke="#9aaab8"/><circle cx="154" cy="286" r="5" fill="#2fa4dc"/>
+<rect x="44" y="314" width="112" height="3" rx="1.5" fill="#b3bfca"/><rect x="44" y="322" width="112" height="3" rx="1.5" fill="#b3bfca"/>
+</svg>
